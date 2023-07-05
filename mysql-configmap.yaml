@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mysql-configmap
+data:
+  MYSQL_ROOT_PASSWORD: senha123
+  MYSQL_DATABASE: adm
+  MYSQL_PASSWORD: senha123
+
