@@ -45,6 +45,9 @@ Evidencia de funcionamento:
 
 ![image](https://github.com/AldrigeJunior/Provisionando-ambiente-com-Kubernetes/assets/133812087/f4d475e1-97fd-49bf-af03-d9d529913140)
 
+![image](https://github.com/AldrigeJunior/Provisionando-ambiente-com-Kubernetes/assets/133812087/ba71ea99-98e3-4f42-bef4-0abe90872b17)
+
+
 Adicione um health check à aplicação, para garantir que ela esteja funcionando corretamente. 
 
  Script health check:
